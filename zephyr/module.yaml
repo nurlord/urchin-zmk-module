@@ -1,4 +1,5 @@
 name: zmk-keyboards-urchin
 build:
+  cmake: .
   settings:
     board_root: .
